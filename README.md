@@ -1,5 +1,12 @@
 # Assessment
-This PHP script is a simple E-Note system that allows users to generate and view notes. The script provides three options: create a new note by entering a name, title, and content; view all saved notes; or exit the system.
+
+![image src](https://github.com/Md-Meraj-ahmad/Assessment/blob/main/Assessment/Output-Images/first_view-output.png)
+
+![image src](https://github.com/Md-Meraj-ahmad/Assessment/blob/main/Assessment/Output-Images/choise-1.png)
+
+![image src](https://github.com/Md-Meraj-ahmad/Assessment/blob/main/Assessment/Output-Images/choise-2.png)
+
+![image src](https://github.com/Md-Meraj-ahmad/Assessment/blob/main/Assessment/Output-Images/choise-3.png)
 
 # Python E-Note System
 
